@@ -1,6 +1,6 @@
 👤 Nattam Lokesh – Quantitative Developer Portfolio
 
-•	Quantitative Analyst with experience in risk modeling & ML 
+•	Quantitative Analyst with experience in Risk Modeling & Machine Learning 
 
 •	Focus: Credit Risk, Portfolio Optimization, Alpha Research 
 
